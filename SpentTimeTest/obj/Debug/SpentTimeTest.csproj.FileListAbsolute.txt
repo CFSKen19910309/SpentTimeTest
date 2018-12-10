@@ -1,0 +1,7 @@
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\bin\Debug\SpentTimeTest.exe.config
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\bin\Debug\SpentTimeTest.exe
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\bin\Debug\SpentTimeTest.pdb
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\obj\Debug\SpentTimeTest.csprojAssemblyReference.cache
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\obj\Debug\SpentTimeTest.csproj.CoreCompileInputs.cache
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\obj\Debug\SpentTimeTest.exe
+C:\Users\FD_Kenzo_NB\Desktop\MyCode\SpentTimeTest\SpentTimeTest\obj\Debug\SpentTimeTest.pdb
